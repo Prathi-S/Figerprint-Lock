@@ -34,7 +34,7 @@ ___
 
 # Second Milestone
 <br>
-
+[![Milestone 2 Video]([https://user-images.githubusercontent.com/110252095/183277001-f124d9a3-5131-4ac8-a013-08fb70ff1737.jpeg](https://www.youtube.com/watch?v=S3D3PvG8PW0))]([https://youtu.be/ssd7OVwMDoo](https://www.youtube.com/watch?v=S3D3PvG8PW0) "Milestone 2 Video")
 <br>
 During my second milestone I tested the fingerprint scanner, added an LCD screen to display the message on enrollment and verification of the finger print. During this milestone, I added an LCD screen which projects information from the serial print function onto another screen where the information is more visible. The circuit that I created during this milestone works by first placing my finger(s) on the fingerprint sensor. The LCD would state the condition of the fingerprint sensor and display it on the screen. After having my fingerprint stored in the scanner, I found a code online that could be used to activate the LCD screen. Once the fingerprint sensor worked and stored the template, I decided to combine the code of that sensor with the LCD's code. As the text message is long it got truncated in my LCD screen as its dimension is 16x2, hence decided to scroll the message from right to left when it displays. I used I2C adapter attached to LCD, as chip converts the I2C data from an Arduino into the parallel data required for an LCD display. This has 4 pins to have connected to Arduino. To drive an I2C LCD you must first install a library called LiquidCrystal_I2C and connect the pins as described below.<br> <br> 
 GND is a ground pin. Connect it to the ground of the Arduino. <br>
