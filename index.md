@@ -1,12 +1,3 @@
-﻿# Project Name/Title Goes Here
-I am working on a raspberry pi machine learning model
-
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|
-| Prathivaradhan Sattiamoorthy | Dublin High School | Mechanical Engineer/Computer Science | 11th Grade |
-
-![Relevant Name]()
-  
 # Biometric-ID-Lock
 This is a fingerprint lock that uses an Arduino Microcontroller and 4-Channel Relay Module to unlock a solenoid lock. When the uploaded fingerprint is detected, a red light glows and the solenoid lock unlocks. 
 
