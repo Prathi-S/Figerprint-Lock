@@ -62,7 +62,7 @@ SCL is the I2C clock pin. Connect it to the Arduino’s I2C clock pin.<br> <br>
 <br>
 During my first milestone, I built a fingerprint scanner which uploads the fingerprints as templates and verifies to check matching and displays the message in output if its matched or not. This module has FLASH memory for storing fingerprints, and can be used with any microcontroller or system with a TTL serial interface, and can be added to security systems, door locks, time and attendance systems, and so on. Some of the main components include the Arduino microcontroller and fingerprint scanner. The Arduino microcontroller is the center of the circuit as the code is uploaded and the components which sends and recieves data. The easiest way to control the fingerprint sensor module with Arduino is to use the sensor's Adafruit library. The fingerprint sensor module used in this project has wires of the same color, so it is necessary to distinguish the wire and connect to Arduino board accordingly. <br>
 
-![FingerPrint Scanner](https://hacksterio.s3.amazonaws.com/uploads/attachments/1329647/fww2ycyk0kuz34d_eYqVErEN0A.png "Fingerprint" 
+![FingerPrint Scanner](https://hacksterio.s3.amazonaws.com/uploads/attachments/1329647/fww2ycyk0kuz34d_eYqVErEN0A.png "Fingerprint")
 
 <br>
 VCC-Red wire - Connect to 5V <br>
