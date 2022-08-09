@@ -34,7 +34,7 @@ ___
 # Second Milestone
 <br>
 <br>
-  [![Milestone 2 Video](https://raw.githubusercontent.com/Prathi-S/Fingerprint-Safe---1/gh-pages/mq3.jpeg)](https://youtu.be/S3D3PvG8PW0 "Milestone 2 Video")
+  [![Milestone 2 Video ](https://res.cloudinary.com/marcomontalbano/image/upload/v1660008526/video_to_markdown/images/youtube--hrYdan6Cvk0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hrYdan6Cvk0 "Milestone 2 Video ")
 <br>
 <br>
 
