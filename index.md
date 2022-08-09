@@ -33,7 +33,7 @@ ___
 
 # Second Milestone
 <br>
-[![Milestone 2 Video]([https://user-images.githubusercontent.com/110252095/183277001-f124d9a3-5131-4ac8-a013-08fb70ff1737.jpeg)](https://www.youtube.com/watch?v=S3D3PvG8PW0 "Milestone 2 Video")
+[![Milestone 2 Video](https://user-images.githubusercontent.com/110252095/183277001-f124d9a3-5131-4ac8-a013-08fb70ff1737.jpeg)](https://www.youtube.com/watch?v=S3D3PvG8PW0 "Milestone 2 Video")
 <br>
 
 
