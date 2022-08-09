@@ -10,7 +10,7 @@ This is a fingerprint lock that uses an Arduino Microcontroller and 4-Channel Re
 **Final Milestone Video**
 <br>
 <br>
-  [![Final Milestone Video ](https://res.cloudinary.com/marcomontalbano/image/upload/v1660008526/video_to_markdown/images/youtube--hrYdan6Cvk0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hrYdan6Cvk0 "Final Milestone Video "){:target="_blank" rel="noopener"}
+  [![Final Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1660027083/video_to_markdown/images/youtube--WXl-YrbAcEc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/WXl-YrbAcEc "Final Milestone Video"){:target="_blank" rel="noopener"}
 <br>
 <br>
 
