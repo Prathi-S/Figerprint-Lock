@@ -9,7 +9,7 @@ This is a fingerprint lock that uses an Arduino Microcontroller and 4-Channel Re
 **Milestone 3 Video**
 <br>
 <br>
-  [!Final Milestone Video](https://www.youtube.com/watch?v=hrYdan6Cvk0 "Final Milestone Video")
+  [![Final Milestone Video ](https://res.cloudinary.com/marcomontalbano/image/upload/v1660008526/video_to_markdown/images/youtube--hrYdan6Cvk0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hrYdan6Cvk0 "Final Milestone Video ")
 <br>
 <br>
 
@@ -21,9 +21,10 @@ To operate the system, I first had to add the proper libararies such as Adafruit
 
 **Milestone 3 Video**
 <br>
-  [![Milestone 3 Video](https://www.youtube.com/watch?v=AtyHSbhvGHE&t=22s "Third Milestone Video")
 <br>
-
+  [![Milestone 3 Video ](https://res.cloudinary.com/marcomontalbano/image/upload/v1660008883/video_to_markdown/images/youtube--AtyHSbhvGHE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/AtyHSbhvGHE "Milestone 3 Video ")
+<br>
+<br>
 
 During my third milestone, I added a 12 V solenoid lock, 4-Channel Relay Module, Fingerprint sensor and a battery. The LCD screen is a 16x2 screen that can display characters by being backlit. If the correct fingerprint is scanned, the relay module will turn on or off which allows the current to flow through. The main components of this milestone include the Arduino micro controller, Fingerprint Module, relay module and the 12 V solenoid lock. The relay module is an electrical switch which is operated by an electromagnet.This electromagnet is then activated by a separate low-power signal from a micro controller. When activated, the electromagnet pulls to either open or close an electrical circuit which makes the  Solenoid lock to function. The solenoid lock contains a latch for electrical locking and unlocking. I have connected the battery to GND to the solenoid GND. The battery Power wire and solenoid power are connected the relay module pin.The relay module output is connected to the Arduino pin 13. The GND and VCC of relay module are connected accordingly
 
