@@ -5,8 +5,9 @@ This is a fingerprint lock that uses an Arduino Microcontroller and 4-Channel Re
 |:--:|:--:|:--:|:--:|
 | Prathivaradhan Sattiamoorthy | Dublin High School | Mechanical Engineering/Computer Science | 11
 
-#Final Milestone
-**Milestone 3 Video**
+# Final Milestone
+
+**MFinal Milestone Video**
 <br>
 <br>
   [![Final Milestone Video ](https://res.cloudinary.com/marcomontalbano/image/upload/v1660008526/video_to_markdown/images/youtube--hrYdan6Cvk0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hrYdan6Cvk0 "Final Milestone Video ")
@@ -16,6 +17,9 @@ This is a fingerprint lock that uses an Arduino Microcontroller and 4-Channel Re
 For my Final milestone, I added my fingerprint scanner, relay module, solenoid lock, LCD screeen, LED with tinned PCB, breadboard and battery. The LCD will help display the proper message accordingly which allows the user know which state the fingerprint is in. The LED is an indicator as to wheter the finger has been accepted or not. The relay module is designed as a switch that turns on or off, letting current flow through the solenoid lock or not. The solenoid lock works with the help of electromagnetic energy and often runs on a low DC voltage. The breadboard is helpful as I needed more space for wiring in my Arduino based fingerprint project. I am planning on using my fingerprint scanner, relay module, solenoid lock with LCD screen to display the message accordingly. Also I am planning to use the LED light where it indicates the light when the fingerprint matches. The main components of this milestone include the Arduino micro controller, Fingerprint Module, relay module, 12 V solenoid lock, LED with tinned PCB and LCD screen. The LCD screen is used to confirm whether the fingerprint is accepted or denied in the system. The LED is an indication whether the fingerprint has been matched or not. 
 
 To operate the system, I first had to add the proper libararies such as Adafruit Fingerprint, Liquid Crystal_I2C and Wire.h. To allow the data to be present on the LCD, I had set the baud rate to 57600.
+
+___
+___
 
 # Third Milestone
 
@@ -33,6 +37,8 @@ ___
 
 
 # Second Milestone
+
+**Milestone 2 Video**
 <br>
 <br>
   [![Milestone 2 Video ](https://res.cloudinary.com/marcomontalbano/image/upload/v1660008526/video_to_markdown/images/youtube--hrYdan6Cvk0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hrYdan6Cvk0 "Milestone 2 Video ")
@@ -53,7 +59,7 @@ SCL is the I2C clock pin. Connect it to the Arduino’s I2C clock pin.<br> <br>
 **Milestone 1 Video**
 <br>
 <br>
-  [![Milestone 1 Video](https://user-images.githubusercontent.com/110252095/183277001-f124d9a3-5131-4ac8-a013-08fb70ff1737.jpeg)](https://youtu.be/ssd7OVwMDoo "Milestone 1 Video")
+  [![Milestone 1 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1660009325/video_to_markdown/images/youtube--ssd7OVwMDoo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ssd7OVwMDoo "Milestone 1 Video")
 <br>
 <br>
 During my first milestone, I built a fingerprint scanner which uploads the fingerprints as templates and verifies to check matching and displays the message in output if its matched or not. This module has FLASH memory for storing fingerprints, and can be used with any microcontroller or system with a TTL serial interface, and can be added to security systems, door locks, time and attendance systems, and so on. Some of the main components include the Arduino microcontroller and fingerprint scanner. The Arduino microcontroller is the center of the circuit as the code is uploaded and the components which sends and recieves data. The easiest way to control the fingerprint sensor module with Arduino is to use the sensor's Adafruit library. The fingerprint sensor module used in this project has wires of the same color, so it is necessary to distinguish the wire and connect to Arduino board accordingly. <br>
