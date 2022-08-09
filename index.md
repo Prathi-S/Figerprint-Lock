@@ -13,9 +13,9 @@ This is a fingerprint lock that uses an Arduino Microcontroller and 4-Channel Re
   [![Final Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1660027083/video_to_markdown/images/youtube--WXl-YrbAcEc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/WXl-YrbAcEc "Final Milestone Video"){:target="_blank" rel="noopener"}
 <br>
 <br>
-<center>
+<Left>
 For my Final milestone, I added my fingerprint scanner, relay module, solenoid lock, LCD screen, LED with tinned PCB, breadboard and battery. The LCD will help display the proper message accordingly which allows the user to know if the fingerprint is valid or not. The LED is an indicator as to whether the finger has been accepted or not. The relay module is designed as a switch that turns on or off, letting current flow through the solenoid lock or not. The solenoid lock works with the help of electromagnetic energy and often runs on a low DC voltage. The breadboard is helpful as I needed more space for wiring in my Arduino based fingerprint project. I am planning on using my fingerprint scanner, relay module, solenoid lock with LCD screen to display the message accordingly. Also I am planning to use the LED light where it indicates the light when the fingerprint matches. The main components of this milestone include the Arduino microcontroller, Fingerprint Module, relay module, 12 V solenoid lock, LED with tinned PCB and LCD screen. The LCD screen is used to confirm whether the fingerprint is accepted or denied in the system. The LED is an indication whether the fingerprint has been matched or not. To operate the system, I have added proper libraries such as Adafruit Fingerprint, Liquid Crystal_I2C and Wire.h respectively. 
-</center>
+</Left>
 ___
 ___
 
@@ -28,7 +28,7 @@ ___
 <br>
 <br>
 
-During my third milestone, I added a 12 V solenoid lock, 4-Channel Relay Module, Fingerprint sensor and a battery. The LCD screen is a 16x2 screen that can display characters by being backlit. If the correct fingerprint is scanned, the relay module will turn on or off which allows the current to flow through. The main components of this milestone include the Arduino micro controller, Fingerprint Module, relay module and the 12 V solenoid lock. The relay module is an electrical switch which is operated by an electromagnet.This electromagnet is then activated by a separate low-power signal from a micro controller. When activated, the electromagnet pulls to either open or close an electrical circuit which makes the  Solenoid lock to function. The solenoid lock contains a latch for electrical locking and unlocking. I have connected the battery to GND to the solenoid GND. The battery Power wire and solenoid power are connected the relay module pin.The relay module output is connected to the Arduino pin 13. The GND and VCC of relay module are connected accordingly
+During my third milestone, I added a 12 V solenoid lock, 4-Channel Relay Module, Fingerprint sensor and a battery. The LCD screen is a 16x2 screen that can display characters by being backlit. If the correct fingerprint is scanned, the relay module will turn on or off which allows the current to flow through. The main components of this milestone include the Arduino micro controller, Fingerprint Module, relay module and the 12 V solenoid lock. The relay module is an electrical switch which is operated by an electromagnet. This electromagnet is then activated by a separate low-power signal from a microcontroller. When activated, the electromagnet pulls to either open or close an electrical circuit which makes the  Solenoid lock to function. The solenoid lock contains a latch for electrical locking and unlocking. I have connected the battery to GND to the solenoid GND. The battery Power wire and solenoid power are connected the relay module pin.The relay module output is connected to the Arduino pin 13. The GND and VCC of relay module are connected accordingly
 
 ___
 ___
@@ -87,5 +87,5 @@ The easiest way to control the fingerprint sensor module with Arduino is to use 
 -  Jumper Wires (Many)
 -  USB Cable
 -  Wood Slab
--  Tape
+-  Tape, zip ties
 <br>
