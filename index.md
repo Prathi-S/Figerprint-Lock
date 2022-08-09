@@ -13,11 +13,9 @@ This is a fingerprint lock that uses an Arduino Microcontroller and 4-Channel Re
   [![Final Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1660027083/video_to_markdown/images/youtube--WXl-YrbAcEc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/WXl-YrbAcEc "Final Milestone Video"){:target="_blank" rel="noopener"}
 <br>
 <br>
-
-For my Final milestone, I added my fingerprint scanner, relay module, solenoid lock, LCD screeen, LED with tinned PCB, breadboard and battery. The LCD will help display the proper message accordingly which allows the user know which state the fingerprint is in. The LED is an indicator as to wheter the finger has been accepted or not. The relay module is designed as a switch that turns on or off, letting current flow through the solenoid lock or not. The solenoid lock works with the help of electromagnetic energy and often runs on a low DC voltage. The breadboard is helpful as I needed more space for wiring in my Arduino based fingerprint project. I am planning on using my fingerprint scanner, relay module, solenoid lock with LCD screen to display the message accordingly. Also I am planning to use the LED light where it indicates the light when the fingerprint matches. The main components of this milestone include the Arduino micro controller, Fingerprint Module, relay module, 12 V solenoid lock, LED with tinned PCB and LCD screen. The LCD screen is used to confirm whether the fingerprint is accepted or denied in the system. The LED is an indication whether the fingerprint has been matched or not. 
-
-To operate the system, I first had to add the proper libararies such as Adafruit Fingerprint, Liquid Crystal_I2C and Wire.h. To allow the data to be present on the LCD, I had set the baud rate to 57600.
-
+<center>
+For my Final milestone, I added my fingerprint scanner, relay module, solenoid lock, LCD screen, LED with tinned PCB, breadboard and battery. The LCD will help display the proper message accordingly which allows the user to know if the fingerprint is valid or not. The LED is an indicator as to whether the finger has been accepted or not. The relay module is designed as a switch that turns on or off, letting current flow through the solenoid lock or not. The solenoid lock works with the help of electromagnetic energy and often runs on a low DC voltage. The breadboard is helpful as I needed more space for wiring in my Arduino based fingerprint project. I am planning on using my fingerprint scanner, relay module, solenoid lock with LCD screen to display the message accordingly. Also I am planning to use the LED light where it indicates the light when the fingerprint matches. The main components of this milestone include the Arduino microcontroller, Fingerprint Module, relay module, 12 V solenoid lock, LED with tinned PCB and LCD screen. The LCD screen is used to confirm whether the fingerprint is accepted or denied in the system. The LED is an indication whether the fingerprint has been matched or not. To operate the system, I have added proper libraries such as Adafruit Fingerprint, Liquid Crystal_I2C and Wire.h respectively. 
+</center>
 ___
 ___
 
@@ -80,7 +78,7 @@ The easiest way to control the fingerprint sensor module with Arduino is to use 
 -  4-Channel Relay Module
 -  12V Solenoid Lock
 -  Fingerprint Scanner
--  Copper Board
+-  Tinned Printed Circuit Board
 -  LCD Display
 -  Breadboard
 -  12V Battery
